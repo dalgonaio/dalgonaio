@@ -19,13 +19,14 @@ I'm a corporate finance/law refugee who is loving being a web applications devel
 
 🔭 I'm currently working on Cat🐈Butler - an online pet health managing journal in a private repo.
 
-My tech stack:
-Languages: Typescript, Javascript, HTML, CSS
-Frontend Frameworks & Libraries: React, React Native, Next.js
-Querying Language: GraphQL, Axios
-Backend (exposed to): Node.js, Express, C#
-Database (exposed to): PostgreSQL, NoSQL, Firestore
-Styling: Tailwind
-Design: Figma
-Version Control: Git
-Collaboration: GitHub
+My tech stack:  
+
+Languages: Typescript, Javascript, HTML, CSS  <br>
+Frontend Frameworks & Libraries: React, React Native, Next.js  <br>
+Querying Language: GraphQL, Axios <br>
+Backend Frameworks & Libraries (exposed to): Node.js, Express, (learning) C# <br>
+Database (exposed to): PostgreSQL, NoSQL, Firestore <br>
+Styling: Tailwind <br>
+Design: Figma <br>
+Version Control: Git <br>
+Collaboration: GitHub <br>
