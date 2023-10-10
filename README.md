@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a corporate finance/law refugee who is loving being a web applications developer. Most recently, I was a front end engineer at an e-commerce company.
+
+🔭 I'm currently working on Cat🐈Butler - an online pet health managing journal in a private repo.
+
+My tech stack:
+Languages: Typescript, Javascript, HTML, CSS
+Frontend Frameworks & Libraries: React, React Native, Next.js
+Querying Language: GraphQL, Axios
+Backend (exposed to): Node.js, Express, C#
+Database (exposed to): PostgreSQL, NoSQL, Firestore
+Styling: Tailwind
+Design: Figma
+Version Control: Git
+Collaboration: GitHub
