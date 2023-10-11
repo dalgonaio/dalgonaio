@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a corporate finance/law refugee who is loving being a web applications developer. Most recently, I was a front end engineer at an e-commerce company.
 
-🔭 I'm currently working on Cat🐈Butler - an online pet health managing journal in a private repo.
+🔭 I'm currently working on Cat🐈Butler - an online pet health managing journal.
 
 My tech stack:  
 
