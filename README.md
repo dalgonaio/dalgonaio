@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 I'm a corporate finance/law refugee who is loving being a web applications developer. Most recently, I was a front end engineer at an e-commerce company.
 
-🔭 I'm currently working on Cat🐈Butler - an online pet health managing journal.
+🔭 I'm currently working on Pet🐈Butler - an online pet health managing journal.
 
 My tech stack:  
 
 Frontend Languages: Typescript, Javascript, HTML, CSS  <br>
 Frontend Frameworks & Libraries: React, React Native, Next.js  <br>
 Querying Language: GraphQL, Axios <br>
-Backend Languages, Frameworks & Libraries: (learning) C#, (exposed to): Node.js, Express,  <br>
-Database (exposed to): PostgreSQL, NoSQL, Firestore <br>
+Backend Languages, Frameworks & Libraries: (Exposed to) C#, Node.js, Express,  <br>
+Database: PostgreSQL, NoSQL, Firestore <br>
 Styling: Tailwind <br>
 Design: Figma <br>
 Version Control: Git <br>
