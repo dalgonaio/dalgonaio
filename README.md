@@ -24,7 +24,7 @@ My tech stack:
 Frontend Languages: Typescript, Javascript, HTML, CSS  <br>
 Frontend Frameworks & Libraries: React, React Native, Next.js  <br>
 Querying Language: GraphQL, Axios <br>
-Backend Languages, Frameworks & Libraries: (Exposed to) C#, Node.js, Express,  <br>
+Backend Languages, Frameworks & Libraries: (Exposed to) Python, Java, C#, Node.js, Express,  <br>
 Database: PostgreSQL, NoSQL, Firestore <br>
 Styling: Tailwind <br>
 Design: Figma <br>
